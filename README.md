@@ -23,3 +23,4 @@ escreva as opções que deseja sortear:
 2- Hamburguer
 3- Sushi
 a opção sorteada foi: Sushi
+.
