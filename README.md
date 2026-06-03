@@ -16,11 +16,11 @@ Programa de linha de comando que sorteia aleatoriamente uma opção entre as ins
 
 ## 📌 Exemplo
 
-Escreva o número de opções para sortear:
-3
+Escreva o número de opções para sortear: 3
 escreva as opções que deseja sortear:
 1- Pizza
 2- Hamburguer
 3- Sushi
 a opção sorteada foi: Sushi
-.
+
+
